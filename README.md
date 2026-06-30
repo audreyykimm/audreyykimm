@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
 
-<!--
-**audreyykimm/audreyykimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm currently learning programming and building my GitHub profile. I'm excited to improve my coding skills and work on new projects.
 
-Here are some ideas to get you started:
+## Skills I'm Learning
+- HTML
+- CSS
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests/Hobbies
+- Listening to music
+- Watching movies and TV shows
+- Spending time with friends and family
+
+## Fun Fact
+I enjoy solving puzzles and learning new things every day!
